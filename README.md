@@ -1,16 +1,24 @@
-## Hi there 👋
+# Vitor Hugo Camargo Senna 
 
-<!--
-**vitin22k/vitin22k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Vitor Hugo. Seja bem-vindo ao meu repositório!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus Gostos
+
+🍕 Amo pizza e hambúrgueres!
+🎮 Gosto de jogar videogames nas horas vagas.
+👩 Apaixonado por mulheres #amo😍
+🎵 Curto ouvir música, especialmente trap, rap e funk.
+
+Projetos
+
+🚀 Aqui você encontrará alguns dos meus projetos e contribuições. Sinta-se à vontade para explorar e colaborar!
+
+Contato
+
+📧 Email: vitinjolonguinha@gmail.com
+💼 LinkedIn: linkedin.com/in/seuperfil
+🐙 GitHub: github.com/vitin22k
+
+Obrigado por visitar meu repositório! 😃
